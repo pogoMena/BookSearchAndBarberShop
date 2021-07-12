@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xpogo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xpogo\\.nuget\\packages"
+    ]
+  }
+}
